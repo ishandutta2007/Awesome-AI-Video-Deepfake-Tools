@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The AI video generation and synthetic media sector is projected to reach approximately $950 million to $1.8+ billion globally in 2026, scaling rapidly at a 19–20% CAGR toward $3.4+ billion by the early 2030s. The market is **highly fragmented and intensely competitive**—split across foundation model giants (Runway, OpenAI, Google) and specialized avatar/workflow applications (Synthesia, HeyGen)—preventing any single winner-take-all monopoly as diverse enterprise use cases (L&D, localized advertising, live digital agents) demand targeted architectures.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Synthesia](https://www.synthesia.io/)**  
-
-  AI avatar video platform with 230+ avatars and 140+ languages. Features **custom avatar creation**, **voice cloning**, and **one-click video generation** from text. **The enterprise standard for L&D and corporate communications.**
-
-
-
-- **[HeyGen](https://www.heygen.com/)**  
-
-  AI avatar and voice cloning platform with **video translation**, **personalized video at scale**, and **interactive avatars**. Features **Avatar IV** for expressive talking heads.
-
-
-
-- **[D-ID](https://www.d-id.com/)**  
-
-  Photo-to-talking-avatar platform with **Creative Reality Studio**. Animates still photos with speech for marketing, training, and customer service. **Freemium tier available.**
-
-
-
-- **[Runway](https://runwayml.com/)**  
-
-  AI video generation and editing platform with **Gen-3/Gen-4** video models. Features **Act-One** for performance capture and **motion brush** for animated regions.
-
-
-
-- **[Pika](https://pika.art/)**  
-
-  AI video generation with **Pikaffects** for creative transformations. Features **Pika Labs** for text-to-video and image-to-video.
-
-
-
-- **[Elai.io](https://elai.io/)**  
-
-  AI video generation with avatars, voiceovers, and templates. Features **custom avatar creation** and **PowerPoint-to-video** conversion.
-
-
-
-- **[Colossyan](https://www.colossyan.com/)**  
-
-  AI video platform for workplace learning with **avatars, voice cloning, and translation**. Features **interactive video** and **SCORM export**.
-
-
-
-- **[DeepBrain AI](https://www.deepbrain.io/)**  
-
-  AI human video synthesis with **realistic avatars** and **multi-language support**. Features **AI Studios** for text-to-video and **AI Kiosk** for interactive avatars.
-
-
-
-- **[Hour One](https://hourone.ai/)**  
-
-  AI video platform with **presenter avatars** and **text-to-video generation**. Features **custom avatar creation** and **brand templates**.
-
-
-
-- **[Rephrase.ai](https://www.rephrase.ai/)**  
-
-  AI-generated video platform with **digital avatars** and **personalized video at scale**. Acquired by Adobe (2022).
+| Platform | Valuation / Revenue | Starting Price | Free Tier / Trial Limits | Key Highlights |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Runway](https://runwayml.com/)** | **$5.3B Valuation** (~$200M ARR) | $12/mo (billed annually) or $15/mo | **125 one-time credits** (~10s video generation lifetime); no monthly refresh, watermark included, non-commercial only | Gen-3/Gen-4 video models, Act-One performance capture, motion brush. |
+| **[Synthesia](https://www.synthesia.io/)** | **$4.0B Valuation** (~$100M+ ARR) | $18/mo (billed annually) or $29/mo (Starter) | **Free forever plan**: Up to 3 mins/mo (~1,200 credits), Synthesia watermark, video downloads disabled | Enterprise standard for L&D; 230+ avatars, 140+ languages, voice cloning. |
+| **[HeyGen](https://www.heygen.com/)** | **$500M Valuation** (~$200M ARR) | $24/mo (billed annually) or $29/mo (Creator) | **Free forever plan**: 1–3 free videos/mo (up to 1 min max per video), 720p sharing link, watermark included | Avatar IV expressive talking heads, video translation, personalized video at scale. |
+| **[Pika](https://pika.art/)** | **$470M Valuation** (~$135M Total Funding) | $8/mo (billed annually) or $10/mo (Starter) | **Free forever plan**: 0 recurring monthly credits (promotional/introductory credits only), 480p/watermarked, non-commercial only | Pikaffects for creative transformations, text-to-video, image-to-video. |
+| **[DeepBrain AI](https://www.deepbrain.io/)** | **$180M Valuation** (~$10M–$13M ARR) | $24/mo (billed annually) or $30/mo (Personal) | **Free trial**: 1 project/3 video exports total, 720p export limit, mandatory watermark | AI Studios for text-to-video, conversational LiveAvatars, AI Kiosk. |
+| **[D-ID](https://www.d-id.com/)** | **~$150M Valuation** (~$33M ARR) | $5.90/mo (billed annually) or $9.90/mo (Lite) | **14-day free trial**: Up to 3 minutes of generated video or 10 min streaming agents, D-ID watermark | Photo-to-talking-avatar synthesis, Creative Reality Studio, WebRTC live agents. |
+| **[Hour One](https://hourone.ai/)** | **~$50M+ Valuation** (~$25M Total Funding) | $25/mo (billed annually) or $30/mo (Lite) | **Free trial**: 3 minutes of video generation total, viewable via link only, platform watermark | Virtual presenter avatars, text-to-video, SCORM & brand templates. |
+| **[Colossyan](https://www.colossyan.com/)** | **~$40M–$50M Valuation** (~$28M Total Funding) | $47/mo (billed annually) or $59/mo (Professional) | **14-day free trial** + Starter tier: Up to 20 minutes/mo (standard NEO models only), Colossyan watermark, SCORM export disabled | Workplace learning and L&D focus, interactive video quizzes, auto-translation. |
+| **[Elai.io](https://elai.io/)** | **Acquired by Panopto** (~$1.3M Pre-Acq ARR) | $23/mo (billed annually) or $29/mo (Creator) | **Free forever plan**: 1 minute render credit pool total (account lifetime), max 3 slides per video, 60s speech/slide | PowerPoint-to-video, custom avatar creation, 80+ stock avatars. |
+| **[Rephrase.ai](https://www.rephrase.ai/)** | **Acquired by Adobe** ($13.9M Prior Funding) | $25/mo (Personal baseline prior to acquisition) | **Free trial**: 3 trial video credits, link sharing only, watermark included | Digital avatars and personalized video marketing engines at scale (integrated into Adobe). |
 
 
 
