@@ -67,6 +67,7 @@ The sector exhibits **high fragmentation with intense vertical competition**:
 | **[Colossyan](https://www.colossyan.com/)** | **~$40M–$50M Valuation** (~$28M Total Funding) | $47/mo (billed annually) or $59/mo (Professional) | **14-day free trial** + Starter tier: Up to 20 minutes/mo (standard NEO models only), Colossyan watermark, SCORM export disabled | Workplace learning and L&D focus, interactive video branching, auto-translation. |
 | **[Elai.io](https://elai.io/)** | **Acquired by Panopto** (~$1.3M Pre-Acq ARR) | $23/mo (billed annually) or $29/mo (Creator) | **Free forever plan**: 1 minute render credit pool total (account lifetime), max 3 slides per video, 60s speech/slide | PowerPoint-to-video conversion, custom avatar creation, 80+ stock avatars. |
 | **[Rephrase.ai](https://www.rephrase.ai/)** | **Acquired by Adobe** ($13.9M Prior Funding) | $25/mo (Personal baseline prior to acquisition) | **Free trial**: 3 trial video credits, link sharing only, watermark included | Digital avatars and personalized video marketing engines at scale (integrated into Adobe ecosystem). |
+| **[Live Face Swap](https://live-face-swap.net/)** | — | [$9.90/month for Starter (USD)](https://live-face-swap.net/pricing) | Free camera preview; AI generation uses credits | Browser-based live webcam face swapping, with reference images and local recording and download. |
 
 ---
 
